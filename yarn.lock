@@ -12071,7 +12071,7 @@ __metadata:
   resolution: "semantic-ui-css@https://github.com/Semantic-Org/Semantic-UI-CSS.git#commit=01e4a5346496c284db3b19a102458731ccccd911"
   dependencies:
     jquery: x.*
-  checksum: 22242a7dc7b4ffeeb9f83e5da2592db4ad5888c1c893b98437259b6db6e419641e82c96ebfc8266e5642d5219f751671a9f1831237c4a68235b7d995b14541be
+  checksum: 11d7cff06180e6ae6f52c8b52573a094fc158a7ab4351ace2c738f7e747ea97802c2d10502fa99121c01b335f3658d78f64d5da8a9b8078ce98341fac33dc700
   languageName: node
   linkType: hard
 
